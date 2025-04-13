@@ -7,9 +7,21 @@
 - **Backend (Learning):** Node.js (Express), MongoDB, .NET
 - **Tools:** Git, Postman, VS Code, GitHub, Netlify, Render
 
-## Projects:
-- **Task Tracker (React + Node.js)** — A full-stack productivity app with CRUD functionality  
-- **[More projects coming soon...]**
+## Featured Projects
+
+### 🧠 Task Tracker – Full Stack App
+A productivity tracker built using React, Express, and deployed publicly.
+
+- 🔗 [Live App](https://rococo-frangollo-d40ae5.netlify.app)
+- 💻 [Frontend Code](https://github.com/YashikaSShetty/task-tracker/tree/main/client)
+- ⚙️ [Backend API](https://task-tracker-backend-lcd3.onrender.com/api/tasks)
+
+Includes:
+- Live GET route pulling tasks from backend
+- Fully deployed frontend and backend
+- Built while transitioning into full-stack development
+
+### **[More projects coming soon...]**
 
 ## What I’m Exploring Now:
 - Backend APIs with Express  
